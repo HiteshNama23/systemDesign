@@ -2,8 +2,6 @@
 
 This class diagram represents the **Low-Level Design (LLD)** of a **Multi-Level Parking System**.
 
-Rendered using **Mermaid**, which is natively supported by GitHub.
-
 ---
 
 ## 🧩 UML Class Diagram
